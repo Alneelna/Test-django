@@ -3,3 +3,5 @@ print(len(names))
 print(names.pop(3))
 names.insert(2, "onome") 
 print(names[2])
+
+fruits = ("apple", "banana", "cherry")
